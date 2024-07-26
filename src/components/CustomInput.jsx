@@ -7,12 +7,16 @@ const CustomInput = ({
   placeholder = "Amount",
   style = "",
   error = "",
+  min = "",
+  max = "",
 }) => {
   return (
     <>
       <input
         type={type}
         value={value}
+        min={min}
+        max={max}
         onChange={(e) => handleChange(e.target.value)}
         placeholder={placeholder}
         className={`${style} border p-2 ${
