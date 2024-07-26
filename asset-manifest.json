@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BankingApp/static/css/main.3aa4a7ea.css",
+    "main.js": "/BankingApp/static/js/main.72c76266.js",
+    "index.html": "/BankingApp/index.html",
+    "main.3aa4a7ea.css.map": "/BankingApp/static/css/main.3aa4a7ea.css.map",
+    "main.72c76266.js.map": "/BankingApp/static/js/main.72c76266.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3aa4a7ea.css",
+    "static/js/main.72c76266.js"
+  ]
+}
